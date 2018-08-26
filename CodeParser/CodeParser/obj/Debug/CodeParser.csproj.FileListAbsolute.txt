@@ -1,0 +1,6 @@
+D:\GitRepo\CodeParser\CodeParser\CodeParser\bin\Debug\CodeParser.exe.config
+D:\GitRepo\CodeParser\CodeParser\CodeParser\bin\Debug\CodeParser.exe
+D:\GitRepo\CodeParser\CodeParser\CodeParser\bin\Debug\CodeParser.pdb
+D:\GitRepo\CodeParser\CodeParser\CodeParser\obj\Debug\CodeParser.csprojResolveAssemblyReference.cache
+D:\GitRepo\CodeParser\CodeParser\CodeParser\obj\Debug\CodeParser.exe
+D:\GitRepo\CodeParser\CodeParser\CodeParser\obj\Debug\CodeParser.pdb

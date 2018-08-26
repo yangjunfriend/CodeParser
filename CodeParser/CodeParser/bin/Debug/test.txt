@@ -1,0 +1,10 @@
+struct a
+{
+    unsigned int a; int b;
+    char c;
+}
+
+struct asdaf { int a;
+ int b;
+    char c;
+}
